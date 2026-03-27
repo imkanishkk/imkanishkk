@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanishk Kumar</h1>
 <h3 align="center">A passionate full Stack developer and Cybersecurity Enthusiast</h3>
 
-- 🌱 I’m currently learning **Angular Framework, Cybersecurity, Laravel**
+- 🌱 I’m currently learning **MLOps**
 
 - 📫 How to reach me **kumarkanishk433@gmail.com**
 
